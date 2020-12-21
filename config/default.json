@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vladilen youtube mern",
+  "mongoUri": "mongodb+srv://yarik:123123123@cluster0.or1x6.mongodb.net/musicStore?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
